@@ -13,7 +13,7 @@ My work primarily focuses on data-driven decision-making and optimizing business
 📌 **Key Skills:**  
 ✔️ Machine Learning & Deep Learning  
 ✔️ Python, TensorFlow, Scikit-Learn, Pandas, NumPy  
-✔️ Exploratory Data Analysis (EDA)  
+✔️ Exploratory Data Analysis (EDA)  and Advanced Excel for Data Analysis
 ✔️ Neural Networks (ANN, CNN)  
 ✔️ SQL & Power BI for Data Visualization    
 
