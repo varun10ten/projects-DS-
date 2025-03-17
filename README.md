@@ -16,6 +16,7 @@ My work primarily focuses on data-driven decision-making and optimizing business
 ✔️ Exploratory Data Analysis (EDA)  and Advanced Excel for Data Analysis
 ✔️ Neural Networks (ANN, CNN)  
 ✔️ SQL & Power BI for Data Visualization    
+✔️ Natural Language Processing(NLP) for Text and Sentiment Analysis. 
 
 ---
 
