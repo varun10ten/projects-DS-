@@ -1,0 +1,6 @@
+metric_id,metric_name,statement_type,category,aggregation_logic
+1,Gross Written Premium (GWP),P&L,Revenue,SUM
+2,Profit After Tax (PAT),P&L,Profitability,SUM
+3,Total Assets,Balance Sheet,Asset,LAST_DAY_BALANCE
+4,Solvency Ratio (x),Ratio,Solvency,LAST_DAY_BALANCE
+5,Combined Ratio (%),Ratio,Profitability,AVERAGE

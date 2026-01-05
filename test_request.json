@@ -1,0 +1,48 @@
+{
+    "current_year": "2024-25",
+    "previous_year": "2023-24",
+    "financial_data": [
+        {
+            "metric_name": "Gross Written Premium",
+            "current_value": 43618,
+            "previous_value": 41996,
+            "unit": "Crores"
+        },
+        {
+            "metric_name": "Net Premium",
+            "current_value": 36313,
+            "previous_value": 34407,
+            "unit": "Crores"
+        },
+        {
+            "metric_name": "Profit After Tax",
+            "current_value": 3300,
+            "previous_value": 3800,
+            "unit": "Crores"
+        },
+        {
+            "metric_name": "Combined Ratio",
+            "current_value": 96.5,
+            "previous_value": 97.0,
+            "unit": "%"
+        },
+        {
+            "metric_name": "Total Assets",
+            "current_value": 118000,
+            "previous_value": 115000,
+            "unit": "Crores"
+        },
+        {
+            "metric_name": "Solvency Ratio",
+            "current_value": 1.75,
+            "previous_value": 1.68,
+            "unit": "x"
+        },
+        {
+            "metric_name": "Retention Efficiency (NP/GWP)",
+            "current_value": 83.25,
+            "previous_value": 81.9,
+            "unit": "%"
+        }
+    ]
+}
